@@ -1,0 +1,7 @@
+{
+  "name": "OCR Invoice Reader",
+  "description": "AI-powered invoice and receipt scanner using Gemini Flash for instant data extraction and categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
